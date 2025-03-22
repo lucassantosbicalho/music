@@ -29,7 +29,7 @@ global = {
         g'8 e d g4 e8 d g4 e8 d g4  e8 d c8 |
         g'8 e d g4 e8 d g4 e8 d g4  e8 d c8 |
         g'8 e d g4 e8 d g4 e8 d g4  e8 d c8 |
-        %c e 
+        
     }
     
     \new Staff = "lower" \relative c {
